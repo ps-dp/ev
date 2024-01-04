@@ -1,0 +1,6 @@
+#+TITLE: EV tracking software
+#+AUTHOR: psdp
+
+This is just a simple go program that communicates with a cellphone useing the google maps api to retireve its location and sotre it in a server
+
+Done for a university project
